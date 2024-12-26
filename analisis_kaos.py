@@ -1,6 +1,4 @@
-!pip install streamlit
-!pip install plotly
-!pip install pandas
+pip install streamlit plotly pandas
 
 
 import streamlit as st
